@@ -3,10 +3,7 @@
     "description": "Web3j CI workflow template.",
     "iconName": "web3j-icon",
     "categories": [
-        "ethereum",
-        "solidity",
-        "web3",
-        "java"
+        "Java"
     ],
     "filePatterns": [
         "build.gradle"
